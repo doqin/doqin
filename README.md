@@ -1,15 +1,58 @@
-## Hello there, I'm doquyen 👋
+# Hi there, I'm doquyen 🌺
 
-### I am an undergraduate in Software Engineering from Vietnam.
+```c++
+#include <iostream>
 
-- I'm learning Java, Kotlin, C++ and C# for Software and Game Development. In the future, I want to specialize in Graphics Programming utilizing OpenGL and Vulkan.
+void main() {
+  std::cout << "I am a Software Engineer undergraduate from Vietnam\n";
+  return 0;
+}
+```
 
-- Currently, I'm diving in 2D graphics using the SDL2 framework, I *hope* to learn many things and expand my knowledge in Software Development to apply it elsewhere later.
+```Java
+public class ReadMe {
+  public static void main(String[] args) {
+    System.out.println("I am currently learning Java and C++ for Desktop App Development and Game Development");
+  }
+}
+```
 
-- Alongside, experimenting with 3D graphics using libGDX and DirectX.
+```Javascript
+main();
 
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=doqin&show_icons=true&include_all_commits=true&theme=catppuccin_latte&hide_border=true" alt="doquyen's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=doqin&layout=compact&theme=catppuccin_latte&hide_border=true&size_weight=0.5&count_weight=0.5&hide=cmake" /></a> |
-| ------------- | ------------- |
+function main() {
+  console.log("Alongside, experimenting with Javascript for WebGL");
+}
+```
 
-## Cheers!
+```Rust
+fn main() {
+  println!("I'm also studying Rust for writing fast and safe servers");
+}
+```
 
+```Kotlin
+package com.example.readme
+
+import android.os.Bundle
+import android.widget.TextView
+import androidx.appcompat.app.AppCompatActivity
+
+class MainActivity : AppCompatActivity() {
+
+    override fun onCreate(savedInstanceState: Bundle?) {
+        super.onCreate(savedInstanceState)
+        setContentView(R.layout.activity_main)
+
+        val textView = findViewById<TextView>(R.id.textView)
+        textView.text = "And meddling with Kotlin for Mobile App Development"
+    }
+}
+```
+
+```Python
+print("Of course, playing around with Python for other things...")
+```
+
+## 🔧 Languages and Tools:</h3>
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=flat&logo=kotlin&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=flat&logo=rust&logoColor=white) ![WebGL](https://img.shields.io/badge/WebGL-990000?logo=webgl&logoColor=white&style=flat) ![OpenGL](https://img.shields.io/badge/OpenGL-%23FFFFFF.svg?style=flat&logo=opengl) ![Krita](https://img.shields.io/badge/Krita-203759?style=flat&logo=krita&logoColor=EEF37B)
