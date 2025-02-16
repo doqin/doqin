@@ -3,7 +3,7 @@
 ```c++
 #include <iostream>
 
-void main() {
+int main() {
   std::cout << "I am a Software Engineering undergraduate from Vietnam\n";
   return 0;
 }
