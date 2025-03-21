@@ -1,26 +1,9 @@
-# Hi there, I'm DoQuyen! 🌺
+# Hi there, I'm doquyen! 🌺
 
-```c++
-#include <iostream>
-
-int main() {
-    std::cout << "I am a Software Engineering undergraduate from Vietnam." << std::endl;
-    std::cout << "I am currently learning Kotlin and C++ for Desktop and Mobile App Development." << std::endl;
-    return 0;
-}
-```
-
-```typescript
-main();
-
-function main() {
-    console.log("Also experimenting with JavaScript/TypeScript for WebGL and other web technologies, currently working on an interactive 3D visualization project.");
-}
-```
-
-```python
-print("Of course, playing around with Python for various projects...")
-```
+I am a Software Engineering undergraduate from Vietnam.
+I am currently learning Kotlin and C++ for Desktop and Mobile App Development.
+Also experimenting with JavaScript/TypeScript for WebGL and other web technologies, currently working on an interactive 3D visualization project.
+And of course, playing around with Python for various projects.
 
 ## 🔧 Technologies & Tools
 
