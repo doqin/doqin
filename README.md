@@ -4,9 +4,10 @@
       <img src="yoginnnnnn - 1814364995263799600.gif" width="240"> 
     </td>
     <td valign="top">
-     <h2>Hi, I'm a Software Engineering undergraduate from Vietnam. </h2>
-     I am currently learning Kotlin and C++ for Desktop and Mobile App Development. <br>
-     Also experimenting with JavaScript/TypeScript for WebGL and other web technologies, currently working on an interactive 3D visualization project. And of course, playing around with Python for various projects. 🐍
+     <h2>Hi, silly! </h2>
+      I'm a Software Engineering undergraduate from Vietnam.<br>
+      Currently learning Kotlin and C++ for Desktop and Mobile App Development. <br>
+      Also experimenting with JavaScript/TypeScript for WebGL and other web technologies, currently working on an interactive 3D visualization project. And of course, playing around with Python for various projects. 🐍
     </td>
   </tr>
 </table>
