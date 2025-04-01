@@ -1,20 +1,27 @@
-<table>
+<p align="center">
+\&nbsp;&nbsp;&nbsp;&nbsp;/<br>
+\/
+</p>
+<table align="center">
   <tr>
     <td>
       <img src="yoginnnnnn - 1814364995263799600.gif" width="240"> 
     </td>
     <td valign="top">
-     <h2>Hi, fella! </h2>
-      Just a digital explorer: <br>
-      - Silly <br>
-      - Nocturnal <br>
-      - Sleeps a lot <br>
-      - Codes <br>
+     <h1>Hi, fella! </h1>
+        Just a digital explorer, crafting some software&nbsp;&nbsp;&nbsp;<br>
+        and goofing around hehe.<br>
+        &nbsp;&nbsp;&nbsp;∘ Silly <br>
+        &nbsp;&nbsp;&nbsp;∘ Nocturnal <br>
+        &nbsp;&nbsp;&nbsp;∘ Sleeps a lot <br>
+        &nbsp;&nbsp;&nbsp;∘ Codes <br>
     </td>
   </tr>
 </table>
+<p align="center">
+  <sup> Artist: <a href="https://x.com/yoginnnnnn">yogin@twitter</a></sup>
+</p>
 
-<sup> artist: [yogin@twitter](https://x.com/yoginnnnnn)</sup>
 
 ## 🔧 Technologies & Tools
 
