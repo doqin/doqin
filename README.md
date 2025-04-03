@@ -32,6 +32,6 @@ Languages, frameworks, libraries and other things I use for my projects.
 
 ### 📫 Contact Me
 
-- ✉️ **Email:** [business.doqin@gmail.com](mailto\:business.doqin@gmail.com)
+- ✉️ **Email:** [personal.azalea@gmail.com](mailto\:personal.azalea@gmail.com)
 
 💡 *Always open to learning new technologies and collaborating on interesting projects!* 🚀
