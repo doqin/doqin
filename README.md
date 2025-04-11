@@ -48,8 +48,6 @@ Languages, frameworks, libraries and other things I use for my projects.
       Quick prototyping, scripting, web-related projects 
     </td>
     <td>
-      <img src="https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white"> <br> 
-      Backend development and scripting <br><br>
       <img src="https://img.shields.io/badge/Qt-%23217346.svg?style=flat&logo=Qt&logoColor=white"> <br> 
       Developing cross-platform desktop applications <br><br>
       <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=fff"> <br>
