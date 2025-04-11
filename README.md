@@ -52,6 +52,8 @@ Languages, frameworks, libraries and other things I use for my projects.
       Backend development and scripting <br><br>
       <img src="https://img.shields.io/badge/Qt-%23217346.svg?style=flat&logo=Qt&logoColor=white"> <br> 
       Developing cross-platform desktop applications <br><br>
+      <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=fff"> <br>
+      Creating Web Applications with Java's Servlet <br><br>
       <img src="https://img.shields.io/badge/OpenGL-%23FFFFFF.svg?style=flat&logo=opengl"> <img src="https://img.shields.io/badge/WebGL-990000?logo=webgl&logoColor=white&style=flat"> <br> 
       Graphics programming and real-time rendering
     </td>
