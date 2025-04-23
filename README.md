@@ -40,7 +40,7 @@ Languages, frameworks, libraries and other things I use for my projects.
   </tr>
   <tr>
     <td>
-      <img src="https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white"> <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white"> <img src="https://img.shields.io/badge/rust-%23000000.svg?style=flat&logo=rust&logoColor=white"> <br> 
+      <img src="https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white"> <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white"> <img src="https://img.shields.io/badge/Go-%2300ADD8.svg?&logo=go&logoColor=white"> <img src="https://img.shields.io/badge/rust-%23000000.svg?style=flat&logo=rust&logoColor=white"> <br> 
       Efficiency & high-performance applications, desktop apps, servers <br><br>
       <img src="https://img.shields.io/badge/kotlin-%237F52FF.svg?style=flat&logo=kotlin&logoColor=white"> <img src="https://img.shields.io/badge/lua-%232C2D72.svg?style=flat&logo=lua&logoColor=white"> <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white"> <br> 
       Learning for mobile app and game development <br><br>
