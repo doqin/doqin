@@ -57,7 +57,7 @@ Languages, frameworks, libraries and other things I use for my projects.
     </td>
     <td>
       <img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white"> <br> 
-      Using SQLite for lightweight mobile and embedded applications
+      Using SQLite for lightweight local applications
     </td>
   </tr>
   <tr>
